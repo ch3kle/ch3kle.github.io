@@ -23,7 +23,6 @@ mark {
 }
 
 hr {
-	align-self: center;
 	width: auto;
 	height: auto;
 	background-color: black;
@@ -57,6 +56,7 @@ hr {
 #paypal-container-6GJU4F3TG9F78 {
 	margin-top: 50px;
 	padding-top: 10px;
+	padding-left: 50px;
 	font-family: "Google Sans", sans-serif;
 }
 
